@@ -1,7 +1,7 @@
 #!/usr/bin/sh
 #################################################################
 # video2gif Converter
-# Copyright 2019  Alexandre Díaz Cuadrado - <dev@redneboa.es>
+# Copyright 2019  Alexandre Díaz - <dev@redneboa.es>
 # License GPL-3.0 or later (http://www.gnu.org/licenses/gpl).
 #
 #
